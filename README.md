@@ -1,5 +1,4 @@
-#Search flight KiwiApp
+##Search flight KiwiApp
 
--Install dependencies --> npm install
--Check the app --> npm start
-
+-Install dependencies: npm install
+-Check the app: npm start
